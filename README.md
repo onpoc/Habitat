@@ -25,3 +25,5 @@ Sitecore maintains the Helix documentation and Habitat example, but Habitat code
 For usage questions regarding Habitat installation or code, or questions about Helix, please utilize [Sitecore Stackexchange](https://sitecore.stackexchange.com/) or [#helix-habitat](slack://channel?team=T09SHRBNU&id=C0HNYDJ5V) on [Sitecore Community Slack](https://www.akshaysura.com/2015/10/27/how-to-join-sitecore-slack-community-chat/). 
 
 You can use GitHub to submit [bug reports](https://github.com/Sitecore/Habitat/issues/new?template=bug_report.md) or [feature requests](https://github.com/Sitecore/Habitat/issues/new?template=feature_request.md) for Habitat. Please do not submit usage questions via GitHub.
+
+With this Repo compatible till Sitecore 9.3 and from Sitecore 10 next Repo is getting introduced - Helix.Example
